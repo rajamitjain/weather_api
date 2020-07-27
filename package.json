@@ -1,0 +1,17 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "weather api",
+  "main": "app.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "raj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lite-server": "^2.5.4"
+  }
+}
